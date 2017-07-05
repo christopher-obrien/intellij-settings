@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../audience-modeler/src/main/java/dataxu/audience/ScoredAlias.java - [audience-modeler]'" />
+    <option name="defaultScopeName" value="File '.../audience-modeler/src/main/java/dataxu/audience/ScoredAlias.java - [audience-modeler]'" />
+    <option name="SEARCH_SCOPE" value="File '.../audience-modeler/src/main/java/dataxu/audience/ScoredAlias.java - [audience-modeler]'" />
   </component>
 </application>

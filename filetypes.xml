@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-41dd0b95-03df-41c5-a7c6-644de4a76137-c000.parquet.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-6fceea36-9670-4c99-bdc8-274fc52548ad-c000.json.crc" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

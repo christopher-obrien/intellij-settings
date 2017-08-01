@@ -16,6 +16,11 @@
     </value>
   </option>
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="spark.implicits._" />
+      </array>
+    </option>
     <option name="classCountToUseImportOnDemand" value="99" />
     <option name="sortAsScalastyle" value="true" />
   </ScalaCodeStyleSettings>

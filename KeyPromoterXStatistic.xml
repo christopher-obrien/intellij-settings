@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'CompositeGeneratorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DxAliasToAcxiomPelGe...'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -79,6 +87,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'LookalikeModelerTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +126,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'AcxiomPelToAcxiomPafGeneratorTest'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AudienceStorage'">
@@ -127,6 +143,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Comparator'</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CompositeGeneratorTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DxAliasToAcxiomPelGeneratorTest'">
@@ -161,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScalaTests in 'generators''">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ScalaTests in 'generators''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'dataxu.common in audience-modeler'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -190,7 +222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AcxiomPelToAcxiomPaf...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Comparator'">
@@ -199,6 +231,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Comparator'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CompositeGeneratorTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DxAliasToAcxiomPelGe...'">
@@ -230,6 +270,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Runner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScalaTests in 'gener...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ScalaTests in 'gener...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>71</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -54,7 +54,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -86,7 +86,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'CmsAudienceConnectorTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CompositeGeneratorTest'">
@@ -214,7 +214,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CmsAudienceConnectorTest'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Comparator'">
@@ -318,7 +318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>157</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -430,7 +430,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>233</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">

@@ -345,6 +345,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PostgresTransmissionConnectorTest.testGet'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PostgresTransmissionConnectorTest.testGet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QuboleSegmentConnectorTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>

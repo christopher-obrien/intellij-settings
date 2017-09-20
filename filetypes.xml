@@ -5,18 +5,19 @@
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-4e7a918d-6ab5-402d-9540-6e793f4cab28-c000.orc.crc" type="PLAIN_TEXT" />
-      <mapping pattern=".part-00000-6fceea36-9670-4c99-bdc8-274fc52548ad-c000.json.crc" type="PLAIN_TEXT" />
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-41dd0b95-03df-41c5-a7c6-644de4a76137-c000.parquet.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-6fceea36-9670-4c99-bdc8-274fc52548ad-c000.json.crc" type="PLAIN_TEXT" />
+      <mapping pattern="transmissions-runs.psql" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="orc" type="PLAIN_TEXT" />
       <mapping ext="bz2" type="PLAIN_TEXT" />

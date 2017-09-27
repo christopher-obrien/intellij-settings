@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -190,7 +190,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">

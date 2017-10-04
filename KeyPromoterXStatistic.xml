@@ -41,6 +41,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Context Info">
+        <Item>
+          <IdeaActionID>EditorContextInfo</IdeaActionID>
+          <ShortCut>'⌃⇧Q'</ShortCut>
+          <Description>Context Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">

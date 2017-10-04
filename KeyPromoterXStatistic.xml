@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -30,7 +30,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">

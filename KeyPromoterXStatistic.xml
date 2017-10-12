@@ -278,7 +278,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ServerRunner'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SubpredicateTest.testDeserialize'">
@@ -766,7 +766,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerRunner'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat'">

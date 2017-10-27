@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -161,6 +161,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'ModelerRunner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'QuboleSegmentConnectorTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -238,7 +246,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -510,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>228</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -585,6 +593,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ModelerRunner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ModelerRunner.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ModelerRunner.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'QuboleSegmentConnectorTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -646,7 +670,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>424</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -743,6 +767,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LookalikeModelerTest'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ModelerRunner'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PostgresTransmissionConnectorTest.testCreate'">

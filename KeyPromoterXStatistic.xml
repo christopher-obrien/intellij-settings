@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AcxiomPelToAcxiomPaf...'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ModelerRunner'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'QuboleSegmentConnectorTest'">
@@ -191,6 +191,14 @@
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'ServerRunner.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TestArgs'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'TestArgs'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat'">
@@ -518,7 +526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>230</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -598,7 +606,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'ModelerRunner'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ModelerRunner.main()'">
@@ -670,7 +678,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>448</Count>
+          <Count>451</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -774,7 +782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ModelerRunner'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PostgresTransmissionConnectorTest.testCreate'">
@@ -815,6 +823,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ServerRunner'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestArgs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestArgs'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat'">

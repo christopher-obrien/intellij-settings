@@ -1,0 +1,912 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>178</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'⌘F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Change Signature...">
+        <Item>
+          <IdeaActionID>ChangeSignature</IdeaActionID>
+          <ShortCut>'⌘F6'</ShortCut>
+          <Description>Change Signature...</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Context Info">
+        <Item>
+          <IdeaActionID>EditorContextInfo</IdeaActionID>
+          <ShortCut>'⌃⇧Q'</ShortCut>
+          <Description>Context Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⇧⌘C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy Value</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Cut</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AcxiomPelToAcxiomPaf...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'AcxiomPelToAcxiomPaf...'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AcxiomPelToAcxiomPafGeneratorT...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'AcxiomPelToAcxiomPafGeneratorT...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'App.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'App.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AudienceStorageTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'AudienceStorageTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CmsAudienceConnectorTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'CmsAudienceConnectorTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'CompositeGeneratorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DxAliasToAcxiomPelGe...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'DxAliasToAcxiomPelGe...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'LookalikeModelerTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'LookalikeModelerTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'ModelerRunner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'QuboleSegmentConnectorTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'QuboleSegmentConnectorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ServerRunner'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'ServerRunner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ServerRunner.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'ServerRunner.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TestArgs'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'TestArgs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Tomcat'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Tomcat'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute Statement">
+        <Item>
+          <IdeaActionID>DBNavigator.Actions.Execute</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Execute Statement</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'⌥⌘→' or 'Button5 Click'</ShortCut>
+          <Description>Forward</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AcxiomPelToAcxiomPafGeneratorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AcxiomPelToAcxiomPafGeneratorTest'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'App'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'App'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AudienceStorage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AudienceStorage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AudienceStorageTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AudienceStorageTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AudienceStorageTest.testGetAliasesInAudience'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AudienceStorageTest.testGetAliasesInAudience'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CmsAudienceConnectorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CmsAudienceConnectorTest'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Comparator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Comparator'</Description>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CompositeGeneratorTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DxAliasToAcxiomPelGeneratorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DxAliasToAcxiomPelGeneratorTest'</Description>
+          <Count>49</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LookalikeModelerTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'LookalikeModelerTest (1)'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LookalikeModelerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'LookalikeModelerTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PostgresTransmissionConnectorTest.testCreate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PostgresTransmissionConnectorTest.testCreate'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PostgresTransmissionConnectorTest.testGet'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PostgresTransmissionConnectorTest.testGet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'QuboleSegmentConnectorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QuboleSegmentConnectorTest'</Description>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Runner'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Runner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ScalaTests in 'generators''">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ScalaTests in 'generators''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SegmentStorageTest.testGetAliasesInSegment'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SegmentStorageTest.testGetAliasesInSegment'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ServerRunner'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ServerRunner'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SubpredicateTest.testDeserialize'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SubpredicateTest.testDeserialize'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Tomcat'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Tomcat'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'cms-client [clean]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'cms-client [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'dataxu.common in audience-modeler'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'dataxu.common in audience-modeler'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'swagger-jersey2-grizzly2 [clean,compile...]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'swagger-jersey2-grizzly2 [clean,compile...]'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>232</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AcxiomPelToAcxiomPaf...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'AcxiomPelToAcxiomPaf...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AudienceStorageTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'AudienceStorageTest'</Description>
+          <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CmsAudienceConnectorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CmsAudienceConnectorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Comparator'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Comparator'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CompositeGeneratorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DxAliasToAcxiomPelGe...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DxAliasToAcxiomPelGe...'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DxAliasToAcxiomPelGeneratorTes...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'DxAliasToAcxiomPelGeneratorTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LookalikeModelerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'LookalikeModelerTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ModelerRunner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ModelerRunner.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ModelerRunner.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QuboleSegmentConnectorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'QuboleSegmentConnectorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Runner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Runner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScalaTests in 'gener...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ScalaTests in 'gener...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServerRunner'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ServerRunner'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'dataxu.common''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'dataxu.common''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>451</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AcxiomPelToAcxiomPafGeneratorTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'App'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'App'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AudienceExpressionTest.testEquals'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AudienceExpressionTest.testEquals'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AudienceStorage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AudienceStorage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AudienceStorageTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AudienceStorageTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AudienceStorageTest.testGetAliasesInAudience'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AudienceStorageTest.testGetAliasesInAudience'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CmsAudienceConnectorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CmsAudienceConnectorTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Comparator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Comparator'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CompositeGeneratorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CompositeGeneratorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DxAliasToAcxiomPelGeneratorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DxAliasToAcxiomPelGeneratorTest'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LookalikeModelerTest (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LookalikeModelerTest (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LookalikeModelerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LookalikeModelerTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ModelerRunner'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ModelerRunner'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PostgresTransmissionConnectorTest.testCreate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PostgresTransmissionConnectorTest.testCreate'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QuboleSegmentConnectorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QuboleSegmentConnectorTest'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QuboleSegmentConnectorTest.testGetAliases'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QuboleSegmentConnectorTest.testGetAliases'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SegmentStorageTest.testGetAliasesInSegment'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SegmentStorageTest.testGetAliasesInSegment'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServerRunner'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ServerRunner'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestArgs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestArgs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Tomcat'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Tomcat'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'audience-modeler [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'audience-modeler [package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'data-access-platform-master [clean...]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'data-access-platform-master [clean...]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'swagger-jersey2-grizzly2 [clean,compile...]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'swagger-jersey2-grizzly2 [clean,compile...]'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'swagger-jersey2-grizzly2 [exec:java]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'swagger-jersey2-grizzly2 [exec:java]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'⇧⌘T'</ShortCut>
+          <Description>Test</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

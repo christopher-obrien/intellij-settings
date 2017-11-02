@@ -85,7 +85,6 @@
     <dataset-grid-settings>
       <general>
         <enable-zooming value="true" />
-        <enable-column-tooltip value="true" />
       </general>
       <sorting>
         <nulls-first value="true" />
@@ -135,6 +134,7 @@
           <content-type name="Groovy" enabled="true" />
           <content-type name="AIDL" enabled="true" />
           <content-type name="YAML" enabled="true" />
+          <content-type name="Bash" enabled="true" />
           <content-type name="Manifest" enabled="true" />
         </content-types>
       </qualified-text-editor>
@@ -315,7 +315,6 @@
         <debug-execution-timeout value="600" />
         <focus-result value="false" />
         <prompt-execution value="false" />
-        <target-connection value="ASK" />
       </statement-execution>
       <script-execution>
         <command-line-interfaces />

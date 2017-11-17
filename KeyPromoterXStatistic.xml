@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -46,7 +46,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Context Info">
@@ -230,7 +230,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -654,7 +654,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Runner'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScalaTests in 'gener...'">

@@ -654,7 +654,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Runner'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScalaTests in 'gener...'">
@@ -702,7 +702,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>453</Count>
+          <Count>459</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -838,7 +838,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Runner'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SegmentStorageTest.testGetAliasesInSegment'">

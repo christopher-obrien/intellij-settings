@@ -281,6 +281,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Generate from Swagger">
+        <Item>
+          <IdeaActionID>swaggercodegen.generate</IdeaActionID>
+          <ShortCut>'⌥⇧G'</ShortCut>
+          <Description>Generate from Swagger</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>

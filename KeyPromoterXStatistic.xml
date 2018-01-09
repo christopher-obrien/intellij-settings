@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>236</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -286,7 +286,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate from Swagger">
@@ -366,7 +366,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -471,6 +471,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'LookalikeModelerTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Main'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Main'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PostgresTransmissionConnectorTest.testCreate'">
@@ -671,6 +679,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'LookalikeModelerTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Main'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ModeledAudienceStorageTest'">

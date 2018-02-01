@@ -246,7 +246,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -782,6 +782,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'dataxu.common''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'⌘S'</ShortCut>
+          <Description>Save All</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

@@ -137,6 +137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AttributerApp'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'AttributerApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'AudienceStorageTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Main'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PostgresTransmissionConnectorTest.testCreate'">
@@ -638,7 +646,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>273</Count>
+          <Count>277</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

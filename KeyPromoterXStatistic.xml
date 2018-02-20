@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>273</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -30,7 +30,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -433,6 +433,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AliasStorageTest.getAliasesByAudience'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AliasStorageTest.getAliasesByAudience'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'App'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -687,6 +695,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AliasStorageTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AliasStorageTest.getAliasesByAudience'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'AliasStorageTest.getAliasesByAudience'</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AttributerApp'">

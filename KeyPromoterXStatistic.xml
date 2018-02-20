@@ -334,7 +334,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">

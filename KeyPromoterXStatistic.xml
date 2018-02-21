@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>292</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -622,7 +622,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SegmentStorageTest.testGetAliasesInSegment'</Description>
-          <Count>36</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ServerRunner'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>299</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -910,7 +910,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>615</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SegmentStorageTest.testGetAliasesInSegment'</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerRunner'">

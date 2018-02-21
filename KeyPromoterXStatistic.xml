@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>284</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SegmentStorageTest.testGetAliasesInSegme...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SegmentStorageTest.testGetAliasesInSegme...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ServerRunner'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'testGetAliasesInSe...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -569,6 +577,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Runner'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -606,7 +622,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SegmentStorageTest.testGetAliasesInSegment'</Description>
-          <Count>12</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ServerRunner'">
@@ -678,7 +694,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>291</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -846,7 +862,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'SegmentStorageTest.testGetAliasesInSegme...'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServerRunner'">
@@ -894,7 +910,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>601</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -1078,7 +1094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SegmentStorageTest.testGetAliasesInSegment'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ServerRunner'">

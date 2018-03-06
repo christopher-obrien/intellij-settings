@@ -273,6 +273,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'audience-transmissio...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'audience-transmissio...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testGetAliasesInSe...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -687,6 +695,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Tomcat'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'audience-transmission-1.0.0-SNAPSHOT-jar-with-dependencies.jar'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'audience-transmission-1.0.0-SNAPSHOT-jar-with-dependencies.jar'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cms-client [clean]'">
@@ -1174,6 +1190,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'audience-modeler [package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'audience-transmission-1.0.0-SNAPSHOT-jar-with-dependencies.jar'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'audience-transmission-1.0.0-SNAPSHOT-jar-with-dependencies.jar'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

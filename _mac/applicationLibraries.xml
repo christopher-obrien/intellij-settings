@@ -15,7 +15,9 @@
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.11.12/" />
       </JAVADOC>
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/scala-library-2.11.12-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>

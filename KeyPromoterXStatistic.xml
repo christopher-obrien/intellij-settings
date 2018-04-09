@@ -470,7 +470,7 @@
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⌥⇧⌘T'</ShortCut>
           <Description>Refactor This...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -1263,6 +1263,14 @@
           <ShortCut>'⇧⌘T'</ShortCut>
           <Description>Test</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Case">
+        <Item>
+          <IdeaActionID>EditorToggleCase</IdeaActionID>
+          <ShortCut>'⇧⌘U'</ShortCut>
+          <Description>Toggle Case</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

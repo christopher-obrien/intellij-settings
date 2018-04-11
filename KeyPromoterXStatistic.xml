@@ -678,7 +678,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'RunnerTest.testMain'</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ScalaTests in 'generators''">
@@ -798,7 +798,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>331</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>666</Count>
+          <Count>687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcxiomPelToAcxiomPafGeneratorTest'">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RunnerTest.testMain'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SegmentImportTest'">

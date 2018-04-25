@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>459</Count>
+          <Count>466</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -678,7 +678,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'RunnerTest.testMain'</Description>
-          <Count>53</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ScalaTests in 'generators''">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RunnerTest.testMain'</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SegmentImportTest'">

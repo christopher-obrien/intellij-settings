@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>488</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -502,7 +502,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">

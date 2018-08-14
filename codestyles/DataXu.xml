@@ -62,6 +62,7 @@
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
   </SqlCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />

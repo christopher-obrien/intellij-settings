@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="acr-etl_create_ami_Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="acr-etl_build_Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="acr-etl_deploy_Jenkinsfile" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

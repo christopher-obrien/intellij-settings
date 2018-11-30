@@ -15,6 +15,11 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="TABULARIZE" value="false" />
+  </CsvCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -61,10 +66,17 @@
     <option name="classCountToUseImportOnDemand" value="100" />
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_EL_WRAP" value="2" />
     <option name="FROM_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />

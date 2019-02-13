@@ -64,6 +64,7 @@
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="100" />
+    <option name="REFORMAT_ON_COMPILE" value="true" />
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />

@@ -17,6 +17,17 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="java" />
+        <option value="_______ blank line _______" />
+        <option value="scala" />
+        <option value="_______ blank line _______" />
+        <option value="all other imports" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>

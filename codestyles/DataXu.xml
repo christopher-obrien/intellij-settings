@@ -25,6 +25,8 @@
         <option value="scala" />
         <option value="_______ blank line _______" />
         <option value="all other imports" />
+        <option value="_______ blank line _______" />
+        <option value="dataxu" />
       </array>
     </option>
   </ScalaCodeStyleSettings>

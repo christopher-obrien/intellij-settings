@@ -29,6 +29,7 @@
         <option value="dataxu" />
       </array>
     </option>
+    <option name="sortAsScalastyle" value="true" />
   </ScalaCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />

@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="dmp-aerospike" type="JSON" />
+      <mapping pattern="dmp-aerospike-server" type="JSON" />
       <mapping ext="jsonl" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />

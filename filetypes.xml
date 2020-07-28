@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern="dmp-aerospike" type="JSON" />
       <mapping pattern="dmp-aerospike-server" type="JSON" />
+      <mapping pattern="dmp-aerospike-clients" type="JSON" />
       <mapping ext="jsonl" type="JSON" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="BUILD" type="Python" />
     </extensionMap>
   </component>

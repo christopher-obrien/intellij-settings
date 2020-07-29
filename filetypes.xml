@@ -7,7 +7,7 @@
       <mapping ext="jsonl" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="BUILD" type="Python" />
+      <removed_mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>

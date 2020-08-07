@@ -11,7 +11,6 @@
       <value>
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
-        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>

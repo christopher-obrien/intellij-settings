@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../graph-aerospike-client/src/main/java/com/dataxu/graph/aerospike/operations/CompactionScanCallback.java [graph-aerospike-client]'" />
-    <option name="defaultScopeName" value="File '.../graph-aerospike-client/src/main/java/com/dataxu/graph/aerospike/operations/CompactionScanCallback.java [graph-aerospike-client]'" />
-    <option name="SEARCH_SCOPE" value="File '.../graph-aerospike-client/src/main/java/com/dataxu/graph/aerospike/operations/CompactionScanCallback.java [graph-aerospike-client]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

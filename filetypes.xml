@@ -5,8 +5,9 @@
       <mapping pattern="dmp-aerospike-server" type="JSON" />
       <mapping pattern="dmp-aerospike-clients" type="JSON" />
       <mapping ext="jsonl" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="TapadRawData" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -8,6 +8,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="TapadRawData" type="PLAIN_TEXT" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="Python" />
     </extensionMap>
   </component>

@@ -9,6 +9,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="TapadRawData" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="latest" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="Python" />

@@ -1,18 +1,22 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="dmp-aerospike" type="JSON" />
+      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="dmp-aerospike-server" type="JSON" />
       <mapping pattern="dmp-aerospike-clients" type="JSON" />
+      <mapping pattern="dmp-aerospike" type="JSON" />
       <mapping ext="jsonl" type="JSON" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="TapadRawData" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="latest" type="PLAIN_TEXT" />
-      <mapping ext="parquet" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping pattern="BUILD" type="Python" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jsonl" type="JSON-lines" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="BUILD" type="BUILD" />
     </extensionMap>
   </component>
 </application>

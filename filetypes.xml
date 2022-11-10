@@ -13,7 +13,6 @@
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="jsonl" approved="true" type="JSON-lines" />
       <removed_mapping ext="psd" approved="true" type="Image" />
